@@ -1,12 +1,3 @@
-Anyone help me in this code
-the copy button is not working
-![image](https://github.com/user-attachments/assets/45f65fa8-7e8e-48a3-9784-2db3f3ca2d4c)
-
-this js code is not working
-![image](https://github.com/user-attachments/assets/f0138531-ef6c-4256-9b79-3357912ff8e6)
-
-
-
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
